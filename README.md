@@ -1,36 +1,28 @@
-# Dockerfile
+# Dockerfile Practice
 
-Dockerfile practice covering container build fundamentals and examples.
+Dockerfile exercises for container build fundamentals.
 
-## Overview
+## Purpose
 
-This is a DevOps and infrastructure practice repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository is for learning how application images are built, layered, and run. The projects show repeated Dockerfile practice across small examples rather than a single production app.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Dockerfile syntax and image-building practice
+- Multiple project examples
+- Containerization fundamentals
 
-## Tech Stack
+## Stack
 
-- Primary language: Dockerfile
-- Topics: devops, docker, dockerfile
-
-## Repository Structure
-
-- Top-level folders: project1, project10, project11, project12, project2, project3, project4, project5, project6, project7, project8, project9
-- Top-level files: README.md
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Dockerfile
+- Docker
+- DevOps
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add a table of all project folders
+- Add build/run commands per project
+- Note the Docker concept each folder demonstrates
 
 ## Author
 
